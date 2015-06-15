@@ -1,21 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  rightclick.c
- *
- *    Description:
- *
- *        Version:  1.0
- *        Created:  15/06/15 15:53:13
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Dr. Fritz Mehner (fgm), mehner.fritz@fh-swf.de
- *   Organization:  FH Südwestfalen, Iserlohn
- *
- * =====================================================================================
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
