@@ -5,7 +5,7 @@
 #include <X11/Xlib.h>
 #include <X11/extensions/XTest.h>
 
-#define RMB 1 /*  Right Mouse Button */
+#define RMB 1 /*  Left Mouse Button */
 
 int main(int argc, char **argv)
 {
