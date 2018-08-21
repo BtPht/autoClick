@@ -1,4 +1,4 @@
-# steamMinigameIA
+# Autoclick for X11
 click click
 
 $ aptitude install libx11-dev libxtst-dev
